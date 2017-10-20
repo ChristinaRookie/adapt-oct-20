@@ -1,6 +1,6 @@
 # The Electric Book Jekyll template
 
-A Jekyll template for making books, ebooks and book-like websites.
+A Jekyll template for making books, ebooks and book-like websites. Craig testign.
 
 ## Usage and documentation
 
